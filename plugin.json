@@ -1,0 +1,13 @@
+{
+    "id": "caiyunWeather",
+    "name": "Caiyun Weather",
+    "description": "Show Caiyun weather in DankBar",
+    "version": "1.0.0",
+    "author": "xxyangyoulin",
+    "type": "widget",
+    "capabilities": ["dankbar-widget", "control-center", "weather"],
+    "component": "./CaiyunWeather.qml",
+    "settings": "./CaiyunWeatherSettings.qml",
+    "icon": "partly_cloudy_day",
+    "permissions": ["settings_read", "settings_write", "network"]
+}
