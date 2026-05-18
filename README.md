@@ -1,6 +1,6 @@
 # Caiyun Weather
 
-![截图](assets/screenshot.svg)
+![截图](assets/screenshot.png)
 
 彩云天气插件，使用彩云天气 API 展示当前天气、告警、逐小时预报和未来 7 天预报。
 
