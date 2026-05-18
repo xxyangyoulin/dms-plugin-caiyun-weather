@@ -1,0 +1,93 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" rx="0" fill="#0E1418"/>
+  <rect x="20" y="20" width="860" height="1160" rx="24" fill="#111A1F" stroke="#22313A"/>
+  <text x="48" y="72" fill="#EAF1F6" font-size="34" font-family="sans-serif" font-weight="700">Caiyun Weather</text>
+  <text x="48" y="106" fill="#95A8B5" font-size="18" font-family="sans-serif">Updated 16:50</text>
+
+  <rect x="32" y="128" width="836" height="64" rx="18" fill="#6D4C1B" opacity="0.88"/>
+  <path d="M64 170l10-18 10 18H64z" fill="#F3B23B"/>
+  <rect x="412" y="128" width="1" height="64" fill="#F1F3F4" opacity="0.08"/>
+  <text x="88" y="166" fill="#F6F2E8" font-size="20" font-family="sans-serif">花溪区气象台发布雷电黄色预警[Ⅲ/较重]</text>
+
+  <rect x="32" y="214" width="836" height="210" rx="22" fill="#121B20"/>
+  <circle cx="84" cy="296" r="34" stroke="#8CC6F7" stroke-width="6" fill="none"/>
+  <text x="160" y="270" fill="#F2F8FB" font-size="38" font-family="sans-serif" font-weight="700">24°C  阴</text>
+  <text x="160" y="308" fill="#9FB1BC" font-size="20" font-family="sans-serif">体感 26°C · 北 5 km/h</text>
+  <text x="160" y="342" fill="#D7E2E8" font-size="18" font-family="sans-serif">阴，今天傍晚19点后转小雨，其后多云</text>
+  <path d="M518 344c48-45 130-72 220-72" stroke="#274657" stroke-width="2" opacity="0.8"/>
+  <circle cx="746" cy="272" r="6" fill="#274657"/>
+  <text x="510" y="394" fill="#7F919D" font-size="18" font-family="sans-serif">06:04</text>
+  <text x="784" y="394" fill="#7F919D" font-size="18" font-family="sans-serif">19:34</text>
+
+  <text x="32" y="470" fill="#EAF1F6" font-size="22" font-family="sans-serif" font-weight="700">今天</text>
+  <text x="32" y="506" fill="#EAF1F6" font-size="34" font-family="sans-serif" font-weight="700">20°~24°</text>
+  <text x="32" y="540" fill="#9FB1BC" font-size="18" font-family="sans-serif">27优  小雨</text>
+  <text x="444" y="470" fill="#EAF1F6" font-size="22" font-family="sans-serif" font-weight="700">明天</text>
+  <text x="444" y="506" fill="#EAF1F6" font-size="34" font-family="sans-serif" font-weight="700">19°~25°</text>
+  <text x="444" y="540" fill="#9FB1BC" font-size="18" font-family="sans-serif">24优  中雨</text>
+
+  <text x="32" y="594" fill="#EAF1F6" font-size="22" font-family="sans-serif" font-weight="700">逐小时预报</text>
+  <text x="728" y="594" fill="#9FB1BC" font-size="18" font-family="sans-serif">日出 06:04   日落 19:34</text>
+  <rect x="32" y="612" width="836" height="226" rx="20" fill="#15222A"/>
+  <path d="M72 718H792" stroke="#7EC7F7" stroke-width="3"/>
+  <path d="M72 718l84 0 84 8 84 0 84 12 84 8 84 0 84 6 84 14" stroke="#9FD5F8" stroke-width="3" fill="none"/>
+  <g fill="#9FD5F8" stroke="#9FD5F8">
+    <circle cx="72" cy="718" r="4"/>
+    <circle cx="156" cy="718" r="4"/>
+    <circle cx="240" cy="726" r="4"/>
+    <circle cx="324" cy="726" r="4"/>
+    <circle cx="408" cy="738" r="4"/>
+    <circle cx="492" cy="746" r="4"/>
+    <circle cx="576" cy="746" r="4"/>
+    <circle cx="660" cy="752" r="4"/>
+    <circle cx="744" cy="766" r="4"/>
+  </g>
+  <g fill="#8ECDF6" opacity="0.16">
+    <rect x="210" y="612" width="80" height="226"/>
+    <rect x="708" y="612" width="80" height="226"/>
+  </g>
+  <text x="72" y="688" fill="#DDEAF0" font-size="18" font-family="sans-serif">24°</text>
+  <text x="156" y="688" fill="#DDEAF0" font-size="18" font-family="sans-serif">24°</text>
+  <text x="240" y="696" fill="#DDEAF0" font-size="18" font-family="sans-serif">23°</text>
+  <text x="324" y="696" fill="#DDEAF0" font-size="18" font-family="sans-serif">23°</text>
+  <text x="408" y="708" fill="#DDEAF0" font-size="18" font-family="sans-serif">22°</text>
+  <text x="492" y="716" fill="#DDEAF0" font-size="18" font-family="sans-serif">21°</text>
+  <text x="576" y="716" fill="#DDEAF0" font-size="18" font-family="sans-serif">21°</text>
+  <text x="660" y="722" fill="#DDEAF0" font-size="18" font-family="sans-serif">20°</text>
+
+  <text x="32" y="890" fill="#EAF1F6" font-size="22" font-family="sans-serif" font-weight="700">未来 7 天</text>
+  <rect x="32" y="912" width="836" height="236" rx="20" fill="#15222A"/>
+  <path d="M64 1010H808" stroke="#7EC7F7" stroke-width="3"/>
+  <path d="M64 1010l104-12 104-2 104 4 104 2 104-10 104 6 104 0" stroke="#A8DCF8" stroke-width="3" fill="none"/>
+  <path d="M64 1050H808" stroke="#88B7D1" stroke-width="2" opacity="0.65"/>
+  <g fill="#A8DCF8" stroke="#A8DCF8">
+    <circle cx="64" cy="1010" r="4"/>
+    <circle cx="168" cy="998" r="4"/>
+    <circle cx="272" cy="996" r="4"/>
+    <circle cx="376" cy="1000" r="4"/>
+    <circle cx="480" cy="1002" r="4"/>
+    <circle cx="584" cy="992" r="4"/>
+    <circle cx="688" cy="998" r="4"/>
+    <circle cx="792" cy="998" r="4"/>
+  </g>
+  <g fill="#9FB1BC" font-family="sans-serif" font-size="18">
+    <text x="64" y="1088">今天</text>
+    <text x="168" y="1088">周一</text>
+    <text x="272" y="1088">周二</text>
+    <text x="376" y="1088">周三</text>
+    <text x="480" y="1088">周四</text>
+    <text x="584" y="1088">周五</text>
+    <text x="688" y="1088">周六</text>
+    <text x="792" y="1088">周日</text>
+  </g>
+  <g fill="#EAF1F6" font-family="sans-serif" font-size="18">
+    <text x="54" y="968">24°</text>
+    <text x="158" y="956">25°</text>
+    <text x="262" y="954">25°</text>
+    <text x="366" y="958">25°</text>
+    <text x="470" y="960">25°</text>
+    <text x="574" y="950">26°</text>
+    <text x="678" y="956">25°</text>
+    <text x="782" y="956">24°</text>
+  </g>
+</svg>
